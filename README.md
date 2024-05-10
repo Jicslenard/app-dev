@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-**One piece red**
+**My favorite movie: One piece red**
 
 **Luffy is the main character in the movie**
 
