@@ -1,4 +1,6 @@
 # app-dev
 My first repository
 **One piece red**
-**bold text** The most awaited chaarcter fight scene in one piece are shown in the movie One piece red
+**Luffy is the main character in the movie**
+**Shanks have the most strongest haki in the movie**
+
