@@ -8,5 +8,7 @@ My first repository
 **Shanks have the most strongest haki in the movie**
 
 **info about the enemy of luffy**
+
 > Kizaru have light fruit
+
 > The world govermenet have alot of strong army and admirals
